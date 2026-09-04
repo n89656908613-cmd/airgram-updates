@@ -1,7 +1,7 @@
 {
-  "version": "12.10.1",
-  "version_code": 7038,
+  "version": "12.10.2",
+  "version_code": 7039,
   "file_url": "https://USERNAME.github.io/airgram-updates/airgram-12.10.2.apk",
   "changelog": "Исправления и улучшения",
-  "forced": false
+  "forced": true
 }
